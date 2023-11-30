@@ -7,8 +7,6 @@ Welcome to the Personal Finance Tracker, a robust financial management tool buil
   
 - **Income Management:** Keep tabs on your income sources to understand your overall financial health.
 
-- **Interactive Charts:** Visualize your financial data through dynamic charts, providing valuable insights at a glance.
-
 - **User-Friendly Interface:** Designed for simplicity, our tracker ensures a hassle-free and enjoyable user experience.
 
 ## Getting Started
